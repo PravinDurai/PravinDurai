@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PravinDurai
 - 👀 I’m interested in learning DataStructures & Algorithms, and Web Development (Frontend and Backend {Micro-Services, Spring-Boot, Camunda, MySql, MongoDB}) ...
-- 🌱 I’m currently learning Angular & Python ...
-- 💞️ I’m looking to collaborate any web development projects with Spring-Boot
+- 🌱 I’m currently learning Angular & Solidity ...
+- 💞️ I’m looking to collaborate any web development projects with Spring-Boot or Blockchain projects on Solidity
 - 📫 How to reach me @ s_m_pravin@yahoo.com
 
 <!---
